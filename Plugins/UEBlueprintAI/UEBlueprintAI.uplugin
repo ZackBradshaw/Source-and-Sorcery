@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEBlueprintAI",
+	"Description": "A plugin to generate blueprint code with gen ai",
+	"Category": "Other",
+	"CreatedBy": "Zack",
+	"CreatedByURL": "https://www.zackbradshaw.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

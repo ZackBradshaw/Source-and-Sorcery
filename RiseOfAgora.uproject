@@ -64,7 +64,9 @@
 			"SupportedTargetPlatforms": [
 				"IOS",
 				"Win64",
-				"Mac"
+				"Mac",
+				"Linux",
+				"Android"
 			]
 		},
 		{
