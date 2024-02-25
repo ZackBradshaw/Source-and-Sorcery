@@ -1,4 +1,4 @@
-# Source n Sourcery
+# Source&Sorcery
 ![Banner Image](banner.png)
 
 ## Introduction
