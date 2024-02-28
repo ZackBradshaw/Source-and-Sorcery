@@ -1,12 +1,23 @@
 {
-    // See https://go.microsoft.com/fwlink/?LinkId=733558
-    // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "echo",
+            "label": "Build Source-and-Sorcery",
             "type": "shell",
-            "command": "echo Hello"
+            "command": "Engine\\Build\\BatchFiles\\Build.bat",
+            "args": [
+                "Source-and-SorceryEditor",
+                "Win64",
+                "Development",
+                "-Project=${workspaceFolder}\\Source-and-Sorcery.uproject",
+                "-WaitMutex",
+                "-FromMsBuild"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": "$msCompile"
         }
     ]
 }
