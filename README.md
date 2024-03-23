@@ -1,48 +1,32 @@
-# Solarpunk Athens: Agora's Defense
 
-![Banner Image](RiseOfAgora.png)
 
-We're thrilled to unveil **Solarpunk Athens: Agora's Defense**, a pioneering MMO game set in a solarpunk-themed Athens, brought to life with Unreal Engine. This project transcends traditional gaming experiences by integrating advanced conversational and generative AI, along with Nerfs for photorealistic world generation (ConvAI) for NPC interactions, and a unique blend of in-game and real-world skill development.
+# Source n Sourcery
+![logo](logo.png)
 
-## Why Solarpunk Athens?
+Welcome to "Source n Sourcery," an MMO set in a world where technology has advanced rapidly to be indestinguishable from magic. creating a realm where players utilize nlp and gen AI to wield code as their spellbook, craft artifacts with algorithms, conquere unique items, and explore a universe powered by an underlying source code. In this game, players delve into the mysteries of their world, discovering that their abilities to cast spells and create magical items are governed by their understanding and manipulation of technological principles.
 
-The gaming realm often falls short in bridging virtual skill acquisition with real-world application. We're here to bridge that gap, offering a gaming experience that not only entertains but educates and contributes to genuine skill development.
-
-## What's in Store?
-
-Embark on an adventure in a solarpunk Athens, interact with ConvAI-driven NPCs, and defend the Agora servers from rogue AI hoards. Develop in-game skills like combat or diplomacy, and real-world skills like hacking, tracked through platforms like GitHub and in-game group tasks.
+![Banner Image](banner.png)
 
 ## Join the Adventure!
 
-We're in the prototype development phase and have successfully integrated ConvAI. Up next is developing the skill tracking mechanism, followed by beta testing, and then a full launch in 6 months. We invite gamers, lifelong learners, and open-source contributors to join us in this exciting journey!
+Be part of the development journey and help shape the world of "Source n Sourcery." Join the open-soucerer society and contribute your ideas, suggestions, and feedback.
 
-## Value Proposition
+Discord: [Open-Sourcerers](https://discord.gg/WXV4vF7cza)
 
-- Engaging MMO Experience
-- High Real-World Skill Transferability
-- Minimal Learning Curve
-- Immersive Gameplay & Community Engagement
+## Stay Updated
 
-We believe in maximizing the value through an MMO that educates, showcasing the success of skill transfers, and ensuring a user-friendly gaming environment.
+Follow our progress and stay informed on the latest updates, features, and opportunities to contribute to the game's development.
 
-## Get Involved!
+Features complete and incomplete
 
-- Provide feedback on the prototype.
-- Join the beta testing team.
-- Contribute to the code on GitHub.
-- Share your ideas and suggestions.
+Features complete and incomplete
 
-## Installation Instructions
-
-1. Ensure you have Git LFS installed on your system. If not, follow the instructions [here](https://git-lfs.github.com/).
-2. Clone the repository to your local machine.
-3. Launch the project. Install any plugins that pop up when launching.
-4. Follow the setup instructions to remove the Solarpunk and Education parts if needed.
-
-## Join Our Community
-
-Be part of the open-sourcer community! [Join us on Discord](https://discord.gg/WXV4vF7cza) and contribute to the project.
-
-## Stay Tuned!
-
-Stay tuned for more updates and feel free to ask any questions or share your thoughts below!
+- [x] Basic "Hoard Defense" mode with basic MMO mechanics
+- [x] AI NPCs through convai
+- [/] Finalize the dedicated server setup for public testing.
+- [/] Prompt injection minigame
+- [/] LLM coding asistant through [Bluepy](https://github.com/ZackBradshaw/Bluepy)
+- [ ] Develop and integrate the crypto reward system for Player / Dev engagement used for placing bounties on issues and crafting nfts items with nlp ect.
+- [ ] Define additional high-level tasks for project development.
+  
+See more of the roadmap at our [Projects Board](https://github.com/users/ZackBradsha/projects/2)

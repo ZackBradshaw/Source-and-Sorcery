@@ -5,6 +5,7 @@
 			"AdvancedSteamFriendsLibrary.gen.cpp.obj",
 			"AdvancedSteamSessions.init.gen.cpp.obj",
 			"AdvancedSteamWorkshopLibrary.gen.cpp.obj",
+			"SteamNotificationsSubsystem.gen.cpp.obj",
 			"SteamRequestGroupOfficersCallbackProxy.gen.cpp.obj",
 			"SteamWSRequestUGCDetailsCallbackProxy.gen.cpp.obj",
 			"AdvancedSteamFriendsLibrary.cpp.obj",

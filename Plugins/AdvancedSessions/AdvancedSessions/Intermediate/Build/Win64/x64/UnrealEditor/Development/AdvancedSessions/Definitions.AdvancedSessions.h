@@ -1,4 +1,4 @@
-#include "D:/Documents/Unreal Projects/VRExpPluginExp/Intermediate/Build/Win64/x64/VRExpPluginExampleEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.h"
+#include "C:/Users/zack-/OneDrive - zackbradshaw/UnrealProjects/RiseOfAgora/Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,8 +13,8 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 0
-#define UE_PROJECT_NAME VRExpPluginExample
-#define UE_TARGET_NAME VRExpPluginExampleEditor
+#define UE_PROJECT_NAME RiseOfAgora
+#define UE_TARGET_NAME UnrealEditor
 #define WITH_ADVANCED_SESSIONS 1
 #define UE_MODULE_NAME "AdvancedSessions"
 #define UE_PLUGIN_NAME "AdvancedSessions"
